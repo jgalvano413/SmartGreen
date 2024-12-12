@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextRoundedCorners">
+        <item name="android:background">@drawable/editstyle</item>
+        <item name="android:padding">12dp</item> <!-- Espacio interno del EditText -->
+        <item name="android:textColor">@color/black</item> <!-- Color del texto -->
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+
+    <style name="styleInputText">
+        <item name="android:background">@drawable/editstyle</item>
+        <item name="android:padding">18dp</item> <!-- Espacio interno del EditText -->
+        <item name="android:textColor">@color/black</item> <!-- Color del texto -->
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+</resources>

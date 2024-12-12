@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/monitoring_action"
+        android:title="@string/menu_data"
+        android:icon="@drawable/mon_data"/>
+
+    <item
+        android:id="@+id/conetion_action"
+        android:icon="@drawable/wifi"
+        android:title="@string/manu_network" />
+
+    <item
+        android:id="@+id/setting_action"
+        android:icon="@drawable/settings"
+        android:title="@string/menu_settings" />
+
+</menu>

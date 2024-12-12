@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartGreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2ECC71</item>
+        <item name="colorPrimaryVariant">#27AE60</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#3498DB</item>
+        <item name="colorSecondaryVariant">#2980B9</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#27AE60</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Background color. -->
+        <item name="android:colorBackground">#F7F9F9</item>
+        <!-- Text color. -->
+        <item name="android:textColorPrimary">#2C3E50</item>
+
+
+
+    </style>
+
+    <style name="Theme.SmartGreen" parent="Base.Theme.SmartGreen" />
+</resources>

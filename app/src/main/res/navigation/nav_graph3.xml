@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph3"
+    app:startDestination="@id/monitoring_action">
+
+    <fragment
+        android:id="@+id/monitoring_action"
+        android:name="com.pachi.smartgreen.fragmets.monitoringfragment.monitoringFragment"
+        android:label="@string/menu_data"
+        tools:layout="@layout/fragment_monitoring">
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/conetion_action"
+        android:name="com.pachi.smartgreen.fragmets.conectionfragment.conectionFragment"
+        android:label="@string/manu_network"
+        tools:layout="@layout/fragment_conection" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/setting_action"
+        android:name="com.pachi.smartgreen.fragmets.settingsFragment.settingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" >
+    </fragment>
+</navigation>

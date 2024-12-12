@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartGreen</string>
+    <string name="app_version">1.0</string>
+    <string name="manu_network">Conexiones</string>
+    <string name="menu_data">Acciones</string>
+    <string name="menu_settings">Parametros</string>
+    <string name="settings_notifications">Permitir Notificaciones.</string>
+    <string name="settings_view">Parametros de Notificaciones </string>
+    <string name="POWEREDBY">Powered by PachiSystem Corporation System Inc.</string>
+    <string name="denied_permiss">Permisos denegados la aplicacion se cerrara en</string>
+    <string name="permiss">La aplicación no puede funcionar correctamente sin todos los permisos necesarios.</string>
+</resources>
